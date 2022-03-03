@@ -1,6 +1,6 @@
 # Pendulum simulation
 
-University project for "Basics of automation". Pendulum visual simulation along with its state applied on plots written in Python 2 using Vpython and Matplotlib packages. Given initial angle, its task is to reach target agle in finite amount of time.
+University project for "Basics of automation". Pendulum visual simulation along with its state applied on plots written in Python 2 using Vpython and Matplotlib packages. Given initial angle, its task is to reach the target angle in a finite amount of time.
 
 ## Prerequisites
 
